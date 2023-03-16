@@ -222,8 +222,8 @@ body {
             /* top: 10px; */
             bottom: 10%;
             left: 38%;
-            width: 80px;
-            height: 80px;
+            width: 90px;
+            height: 90px;
             margin: auto;
             border-radius: 12px;
         }
@@ -232,8 +232,8 @@ body {
                 position: absolute;
                 background: #262626;
                 border: none;
-                width: 30px;
-                height: 30px;
+                width: 32px;
+                height: 32px;
             }
 
             .d-pad #up {
