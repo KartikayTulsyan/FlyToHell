@@ -218,12 +218,10 @@ body {
     }
         .d-pad {
             position: absolute;
-            background: lightgreen;
-            /* top: 10px; */
             bottom: 10%;
-            left: 38%;
-            width: 90px;
-            height: 90px;
+            left: 30%;
+            width: 130px;
+            height: 80px;
             margin: auto;
             border-radius: 12px;
         }
@@ -266,12 +264,6 @@ body {
                 border: solid black 2px;
                 border-right: none;
                 border-radius: 8px 0 0 8px;
-            }
-
-            .d-pad #center {
-                left: calc(50% - 15px);
-                top: calc(50% - 15px);
-                background: #000;
             }
 
 
